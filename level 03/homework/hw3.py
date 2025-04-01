@@ -1,0 +1,9 @@
+int1=5+2
+int2=5-2
+int3=25/5
+int4=5*5
+int5=10+5
+int6=25-6
+int7=40/5
+int8=3*8
+print(int1,int2,int3,int4,int5,int6,int7,int8)
